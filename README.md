@@ -211,19 +211,6 @@ For GDPR-related inquiries or to exercise your rights, please use the email abov
 
 ---
 
-## Complaints
-
-If you believe your data protection rights have been violated, you have the right to lodge a complaint with your local data protection authority:
-
-**Spain (AEPD):**  
-Agencia Española de Protección de Datos  
-Website: https://www.aepd.es  
-Phone: +34 901 100 099  
-
-**EU Data Protection Authorities:**  
-https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
-
----
 
 ## Technical Details
 
